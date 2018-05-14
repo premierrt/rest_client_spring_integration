@@ -1,0 +1,3 @@
+
+
+http://javasampleapproach.com/spring-framework/spring-integration/use-spring-integration-http-outbound-gateway-polling-http-end-point-get-method
