@@ -1,5 +1,11 @@
 
 
+--napisac test integracyjny:
+https://www.mkyong.com/java/jackson-2-convert-java-object-to-from-json/
+
+--checypick do mastera pierwszy commit z konfiguracja si
+
+
 http://javasampleapproach.com/spring-framework/spring-integration/use-spring-integration-http-outbound-gateway-polling-http-end-point-get-method
 
 http://ajaxrocks.blogspot.com/2013/08/spring-integration-to-consume-and.html?m=1
